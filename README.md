@@ -33,6 +33,8 @@
   >  */
   > ``````
   >
+  > **点击define按钮选择java**
+  >
   > Edit Template Variables参数部分Expression内容如下:
   >
   > return - methodReturnType()
